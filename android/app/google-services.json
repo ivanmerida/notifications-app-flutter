@@ -1,21 +1,22 @@
 {
   "project_info": {
     "project_number": "482985498742",
-    "project_id": "flutter-notifications-f34be",
-    "storage_bucket": "flutter-notifications-f34be.appspot.com"
+    "project_id": "flutter-ID",
+    
+    "storage_bucket": "flutter-notifications-APP"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:482985498742:android:878e27f3633fa53c162757",
+        "mobilesdk_app_id": "ID APP",
         "android_client_info": {
-          "package_name": "com.ivandev.notifications"
+          "package_name": "com.NAMEAPP"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC14gYGg7sZnIa0Os4nXy-Fob8-Xo0jPjk"
+          "current_key": "INSERT YOUR KEY"
         }
       ],
       "services": {
